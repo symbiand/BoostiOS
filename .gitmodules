@@ -1,0 +1,3 @@
+[submodule "TestRN"]
+	path = TestRN
+	url = https://github.com/symbiand/TestRN.git
